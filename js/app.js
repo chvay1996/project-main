@@ -8,7 +8,7 @@ $(function () {
   }
 
   $(".bh-button").on("click", function () {
-    copyToClipboard(".bh-mainbg-title");
+    copyToClipboard(".bh-mainbg-serv");
     $(".coupon-alert").fadeIn("slow");
   });
 });

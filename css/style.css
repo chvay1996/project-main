@@ -1,4 +1,11 @@
 .coupon-alert {
+  margin: 0 0 10px 0;
+  padding: 0;
   display: none;
-  color: rgb(0, 155, 33);
+  color: rgb(27, 156, 55);
+}
+
+.bh-mainbg-serv {
+  margin: 0;
+  padding: 0;
 }
